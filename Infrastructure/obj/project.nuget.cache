@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "k6d9Bcy/+s6lB/e9nOBgv70wqVmSz6HedHhD+YRHGvzcacNgamtP/P8R8+fB7bhU0OYxTSQ0KkkF968oYt8J3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Api7\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
